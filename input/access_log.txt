@@ -1,0 +1,6 @@
+GET /api/v1/products 200 45ms
+POST /api/v1/cart 201 120ms
+GET /api/v1/users/profile 401 15ms
+POST /api/v1/checkout 500 310ms
+GET /api/v1/search?q=laptop 200 85ms
+GET /api/v1/orders 200 50ms
